@@ -1,7 +1,7 @@
 {
-    "name": "tddzs1tg06",
-    "version": "1.2.14",
-    "description": "Không làm mà đòi có ăn=))",
+    "name": "tminhcutes1tg",
+    "version": "1.2.15",
+    "description": "thế thì phải gì ạ???",
     "main": "main.js",
     "scripts": {
         "start": "node index",
